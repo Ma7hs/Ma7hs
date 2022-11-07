@@ -1,6 +1,6 @@
-# Olá! Sou o Matheus, sou um desenvolvedor WEB em ascenção!
+# Olá! Sou o Matheus, sou um desenvolvedor WEB em aprendizado!
 
-_Recentemente comecei o curso de Análise e Desenvolvimento de Sistema na instituição SENAI. Venha acompanhar meu progresso visualizando meu [repositório](https://github.com/Ma7hs?tab=repositories) github._
+_Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI. Venha acompanhar meu progresso visualizando meu [repositório](https://github.com/Ma7hs?tab=repositories) github._
 
 ---
 
@@ -8,7 +8,7 @@ _Recentemente comecei o curso de Análise e Desenvolvimento de Sistema na instit
 
 - [x] HTML5
 - [x] CSS3
-- [x] JAVA (POO)
+- [x] JAVA 
 - [x] PYTHON
 - [ ] JAVA SCRIPT
 - [ ] BANCO DE DADOS
