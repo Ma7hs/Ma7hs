@@ -28,7 +28,7 @@ _Recentemente comecei o curso de Análise e Desenvolvimento de Sistema na instit
   <img align="center" alt="ICONE HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ICONE CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ICONE JAVA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
-  <img align="center" alt="ICONE PYTHON" height="30" width="30" src="src="https://img.icons8.com/color/48/null/python--v1.png">
+  <img align="center" alt="ICONE PYTHON" height="30" width="30" src="https://img.icons8.com/color/48/null/python--v1.png">
 
 </div>
   
