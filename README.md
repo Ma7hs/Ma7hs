@@ -31,7 +31,7 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
   <img align="center" alt="ICONE PYTHON" height="30" width="30" src="https://img.icons8.com/color/48/null/python--v1.png">
   <img align="center" alt="ICONE LINUX" height="30" width="30" src="https://img.icons8.com/color/48/null/linux.png">
   <img align="center" alt="ICONE AZURE" height="30" width="30" src="https://img.icons8.com/color/48/null/azure.png">
-  <img align="center" alt="ICONE MYSQL" height="40" width="40" src="https://icons8.com/icon/UFF3hmipmJ2V/sql.png">
+  <img align="center" alt="ICONE MYSQL" height="40" width="40" src="https://img.icons8.com/color/48/null/mysql.png">
 
 </div>
   
