@@ -31,7 +31,7 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
   <img align="center" alt="ICONE PYTHON" height="30" width="30" src="https://img.icons8.com/color/48/null/python--v1.png">
   <img align="center" alt="ICONE LINUX" height="30" width="30" src="https://img.icons8.com/color/48/null/linux.png">
   <img align="center" alt="ICONE AZURE" height="30" width="30" src="https://img.icons8.com/color/48/null/azure.png">
-  <img align="center" alt="ICONE MYSQL" height="30" width="30" src="https://icons8.com/icon/39858/mysql-logo">
+  <img align="center" alt="ICONE MYSQL" height="30" width="30" src="https://icons8.com/icon/UFF3hmipmJ2V/sql">
 
 </div>
   
@@ -41,7 +41,7 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
   <a href = "mailto:matheus.siqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-s-90bb04202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/ma7hs/ma7hs/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
