@@ -10,9 +10,9 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
 - [x] CSS3
 - [x] JAVA 
 - [x] PYTHON
-- [ ] JAVA SCRIPT
-- [ ] BANCO DE DADOS
-- [ ] FRAMEWORKS
+- [x] JAVA SCRIPT
+- [x] BANCO DE DADOS
+- [x] FRAMEWORKS
 - [ ] RESTFULL
 - [ ] API
 
