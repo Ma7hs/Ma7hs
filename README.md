@@ -8,13 +8,12 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
 
 - [x] HTML5
 - [x] CSS3
-- [x] JAVA 
+- [x] NODE.JS 
 - [x] PYTHON
 - [x] JAVA SCRIPT
 - [x] BANCO DE DADOS
 - [x] FRAMEWORKS
-- [ ] RESTFULL
-- [ ] API
+- [ ] REST API
 
 **_Observação:_** _Os itens não ticados serão apresentados no decorrer do curso e serão atualizados assim que obtiver tal competência._
 
@@ -30,9 +29,7 @@ _Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI.
   <img align="center" alt="ICONE JAVA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
   <img align="center" alt="ICONE PYTHON" height="30" width="30" src="https://img.icons8.com/color/48/null/python--v1.png">
   <img align="center" alt="ICONE LINUX" height="30" width="30" src="https://img.icons8.com/color/48/null/linux.png">
-  <img align="center" alt="ICONE AZURE" height="30" width="30" src="https://img.icons8.com/color/48/null/azure.png">
   <img align="center" alt="ICONE MYSQL" height="40" width="50" src="https://img.icons8.com/color/48/null/mysql.png">
-
 </div>
   
   ##
