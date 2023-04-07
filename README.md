@@ -1,9 +1,5 @@
 # Olá! Sou o Matheus, sou um desenvolvedor WEB em aprendizado!
 
-_Recentemente iniciei o curso de Análise e Desenvolvimento de Sistema no SENAI. Venha acompanhar meu progresso visualizando meu [repositório](https://github.com/Ma7hs?tab=repositories) github._
-
----
-
 **ESTOU APRENDENDO SOBRE:**
 
 - [x] HTML5
