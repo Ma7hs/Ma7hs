@@ -1,4 +1,4 @@
-# Olá! Sou o Matheus, sou um desenvolvedor WEB em aprendizado!
+# Olá! Sou o Matheus, sou Desenvolvedor Web e Cientista de Dados!
 
 **ESTOU APRENDENDO SOBRE:**
 
